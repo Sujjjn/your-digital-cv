@@ -23,17 +23,8 @@ const Experience = () => {
         "Founded and contributed to Himalaya AI, developing a data-driven Analytics Dashboard focused on transforming raw data into actionable insights.",
         "Designed and implemented interactive dashboards with KPIs, charts, and reports to support informed decision-making and enhance business strategy."
       ]
-    },
-    {
-      icon: Users,
-      title: "Mentor",
-      company: "Freshman Mentor Program",
-      period: "Jan 2024 – Present",
-      tools: ["Mentorship", "Guidance", "Networking"],
-      points: [
-        "Advise new computer science students, assisting them in navigating their college experience through resources, study strategies, and networking prospects."
-      ]
     }
+
   ];
 
   return (
