@@ -4,7 +4,7 @@ const Experience = () => {
   const experiences = [
     {
       icon: TrendingUp,
-      title: "Researcher",
+      title: "Stock Analysis",
       company: "Nepal Stock Exchange (NEPSE)",
       period: "March 2024 – Present",
       tools: ["MS-Excel", "Power BI", "DAX", "KPI", "ETL", "Matplotlib"],
